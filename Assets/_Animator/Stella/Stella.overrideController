@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Stella
+  m_Controller: {fileID: 9100000, guid: 7680ec1e45b7148b1a8b495975d0adcd, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 08ed8c2d8854a4fa2a8b0831077d6edc, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: afc00d1c5dc75415c93a2fea96b69b3f, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: da2c5b90916a1438698624f59ea6a812, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: ba16146898b75483480256ffce5854f0, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: de3dd58aa78f8473ca60efb1a5ba4d37, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: b079b4e8a53be4f64aee0ce855893369, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 832092164845e4373acad3bd82ec8040, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 4ad5c78ff62894bd692765715cb29b41, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: d86cdc4e98d4d4de284e5c5dde51e8fc, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: f7602f3ee18f540a9b4bfcbb591d47dc, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 070b34a9f62d5456b9deef1a79a018d6, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: d23bbea2406e64ecd85a79e5417323cd, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 47f4e8b5017bb458fbbffed090247a50, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: b913e47de44a44308b7030a316b6e3bf, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: b57e9f0466d514cc18c95ff1587fd68c, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: e477131d3d4dc4da797212d5dbbf0117, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 2cc046a50d99e437b9821611fc5627d3, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 712792d8a24af46bbb8a30efed054eb1, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 61573dba6275b4aebbc39bbb009c3cb1, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 3804b581f493a460e8af527a3b2344e3, type: 3}

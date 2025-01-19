@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf7bd5e571d31440f9466fed9de363b7, type: 3}
+  m_Name: MissionPetData_1
+  m_EditorClassIdentifier: 
+  missionPetList:
+  - petName: "\uB808\uC774\uC544"
+    petLevel: 90
+    startSkillPoint: 0
+  - petName: "\uC5D8\uB9AC\uC624\uD2B8"
+    petLevel: 90
+    startSkillPoint: 0
+  - petName: "\uBE0C\uB9AD"
+    petLevel: 90
+    startSkillPoint: 0
+  missionEnemyList:
+  - petName: "\uBBF8\uB178\uD0C0"
+    petLevel: 100
+    startSkillPoint: 0
+  - petName: "\uBBF8\uB178\uD0C0"
+    petLevel: 100
+    startSkillPoint: 0
+  - petName: "\uBBF8\uB178\uD0C0"
+    petLevel: 100
+    startSkillPoint: 0
